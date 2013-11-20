@@ -5,3 +5,4 @@ open_files:
   - README.rdoc
   - app/assets/stylesheets/say.css.scss
   - app/views/say/hello.html.erb
+  - Gemfile

@@ -15,6 +15,9 @@ cursor_positions:
   - :path: public/index.txt
     :cursor_offset: 2439
     :timestamp: 2013-11-05 15:45:50.081000 -05:00
+  - :path: Gemfile.lock
+    :cursor_offset: 242
+    :timestamp: 2013-10-27 06:31:07.983000 -04:00
   - :path: app/views/layouts/application.html.erb
     :cursor_offset: 224
     :timestamp: 2013-11-15 22:58:09.794000 -05:00
@@ -28,6 +31,9 @@ cursor_positions:
     :cursor_offset: 0
     :timestamp: 2013-10-27 06:32:05.251000 -04:00
   - :path: app/views/say/hello.html.erb
-    :cursor_offset: 11
-    :timestamp: 2013-11-20 07:04:06.226000 -05:00
+    :cursor_offset: 0
+    :timestamp: 2013-11-20 07:05:41.804000 -05:00
+  - :path: Gemfile
+    :cursor_offset: 154
+    :timestamp: 2013-11-20 07:21:12.189000 -05:00
 files_to_retain: 0
