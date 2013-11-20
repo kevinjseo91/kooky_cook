@@ -2,3 +2,6 @@
 open_files: 
   - app/views/layouts/application.html.erb
   - app/assets/stylesheets/application.css
+  - README.rdoc
+  - app/assets/stylesheets/say.css.scss
+  - app/views/say/hello.html.erb
