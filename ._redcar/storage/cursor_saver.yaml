@@ -1,0 +1,30 @@
+--- 
+cursor_positions: 
+  - :path: app/assets/stylesheets/print.css
+    :cursor_offset: 0
+    :timestamp: 2010-06-20 22:30:08 -04:00
+  - :path: app/assets/stylesheets/say.css.scss
+    :cursor_offset: 0
+    :timestamp: 2013-10-27 06:32:05.251000 -04:00
+  - :path: app/assets/stylesheets/styles.css
+    :cursor_offset: 577
+    :timestamp: 2013-11-15 21:27:01.784000 -05:00
+  - :path: config/routes.rb
+    :cursor_offset: 55
+    :timestamp: 2013-11-05 18:01:42.013000 -05:00
+  - :path: app/controllers/say_controller.rb
+    :cursor_offset: 68
+    :timestamp: 2013-11-05 16:29:28.076000 -05:00
+  - :path: public/index.txt
+    :cursor_offset: 2439
+    :timestamp: 2013-11-05 15:45:50.081000 -05:00
+  - :path: app/views/say/hello.html.erb
+    :cursor_offset: 44
+    :timestamp: 2013-11-15 22:54:13.570000 -05:00
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 224
+    :timestamp: 2013-11-15 22:58:09.794000 -05:00
+  - :path: app/assets/stylesheets/application.css
+    :cursor_offset: 541
+    :timestamp: 2013-11-15 22:56:40.561000 -05:00
+files_to_retain: 0
